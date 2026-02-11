@@ -5,7 +5,7 @@
   <br/>
 
   <p>
-    Desenvolvedor apaixonado por unir <b>Engenharia de Software</b> e <b>Inteligência Artificial</b>.<br/>
+    Desenvolvedor responsável por unir <b>Engenharia de Software</b> e <b>Inteligência Artificial</b>.<br/>
     Especialista em criar backends escaláveis e fluxos de automação complexos.
   </p>
 
